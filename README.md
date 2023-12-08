@@ -1,2 +1,0 @@
-# keerthiproj
-learning git
